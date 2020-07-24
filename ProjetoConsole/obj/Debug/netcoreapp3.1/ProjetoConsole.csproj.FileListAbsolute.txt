@@ -1,0 +1,13 @@
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\bin\Debug\netcoreapp3.1\ProjetoConsole.exe
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\bin\Debug\netcoreapp3.1\ProjetoConsole.deps.json
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\bin\Debug\netcoreapp3.1\ProjetoConsole.runtimeconfig.json
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\bin\Debug\netcoreapp3.1\ProjetoConsole.runtimeconfig.dev.json
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\bin\Debug\netcoreapp3.1\ProjetoConsole.dll
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\bin\Debug\netcoreapp3.1\ProjetoConsole.pdb
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.csprojAssemblyReference.cache
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.AssemblyInfoInputs.cache
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.AssemblyInfo.cs
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.dll
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.pdb
+D:\SISTEMAS\CSharp\Apex\Exercicio_CSharp_NetConsole\ProjetoConsole\obj\Debug\netcoreapp3.1\ProjetoConsole.genruntimeconfig.cache
