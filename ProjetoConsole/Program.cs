@@ -45,17 +45,28 @@ namespace ProjetoConsole
             Console.WriteLine(produtosDoClienteDiego);
             Console.WriteLine(produtosDoClientePedro);
 
-            produtoRepositorio.Exlcuir(produtoPao.Id);
-            produtoRepositorio.Exlcuir(produtoArroz.Id);
-            produtoRepositorio.Exlcuir(produtoLeite.Id);
-            produtoRepositorio.Exlcuir(produtoAcucar.Id);
+            //MEUS TESTES PRA VER SE ELE LIMPAVA TODA A LISTA
+            // produtoRepositorio.Excluir(produtoArroz.Id);
+            // produtoRepositorio.Excluir(produtoFeijao.Id);
+            // produtoRepositorio.Excluir(produtoAcucar.Id);
+            // produtoRepositorio.Excluir(produtoMacarrao.Id);
+            // produtoRepositorio.Excluir(produtoLeite.Id);
+            // produtoRepositorio.Excluir(produtoDesodorante.Id);
+            // produtoRepositorio.Excluir(produtoOmo.Id);
+            // produtoRepositorio.Excluir(produtoPao.Id);
+            // produtoRepositorio.Excluir(produtoBatata.Id);
+            // produtoRepositorio.Excluir(pordutoCenoura.Id);
+
+            produtoRepositorio.Excluir(produtoPao.Id);
+            produtoRepositorio.Excluir(produtoArroz.Id);
+            produtoRepositorio.Excluir(produtoLeite.Id);
+            produtoRepositorio.Excluir(produtoAcucar.Id);            
 
             produtosDoClienteDiego = clienteRepositorio.ObterClienteEListaDeProdutos(clienteDiego.Id, produtoRepositorio);
             produtosDoClientePedro = clienteRepositorio.ObterClienteEListaDeProdutos(clientePedro.Id, produtoRepositorio);
 
             Console.WriteLine(produtosDoClienteDiego);
             Console.WriteLine(produtosDoClientePedro);
-
         }
     }
 }

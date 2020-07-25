@@ -13,5 +13,13 @@ namespace ProjetoConsole.Modelos
               this.Id = _id;
               this.Nome = _nome;
           }
+
+          public override string ToString()
+          {
+               return 
+               "**** ID: " + Id + 
+               " - " + 
+               "Nome: " + Nome;
+          }
      }
 }

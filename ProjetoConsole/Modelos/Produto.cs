@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Globalization;
 
 namespace ProjetoConsole.Modelos
 {
@@ -16,6 +17,17 @@ namespace ProjetoConsole.Modelos
               this.Descricao = _descricao;
               this.Valor = _valor;
               this.IdCliente = _idCliente;
+          }
+
+          public override string ToString()
+          {
+               return 
+               "**** ID: " + Id + 
+               " - " + 
+               "Descrição: " + Descricao +
+               " - " + 
+               "Valor: RS " + Valor.ToString("F2",CultureInfo.InvariantCulture);
+                //+ " - IdCliente: " + IdCliente;
           }
      }
 
