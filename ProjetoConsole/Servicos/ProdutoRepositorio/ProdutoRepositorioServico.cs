@@ -33,8 +33,8 @@ namespace ProjetoConsole.Modelos
           }
 
           public List<Produto> ObterPeloIdDoCliente(int idCliente)
-          {
-               return (List<Produto>)this.ListaDeProdutos.Where(pro => pro.IdCliente == idCliente);
+          {               
+               return this.ListaDeProdutos.Where(pro => pro.IdCliente == idCliente).ToList();
           }
      }
 }

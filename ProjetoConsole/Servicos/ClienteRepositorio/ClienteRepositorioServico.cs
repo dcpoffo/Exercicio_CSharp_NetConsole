@@ -46,7 +46,8 @@ namespace ProjetoConsole.Modelos
                     sb.AppendLine("------------------------------------------------------------------");
                     sb.AppendLine("PRODUTOS");
                     sb.AppendLine("------------------------------------------------------------------");
-                    foreach (var produto in produtoServico.ListaDeProdutos.Where(pc => pc.IdCliente == idCliente))
+                    
+                    foreach (var produto in produtoServico.ObterPeloIdDoCliente(idCliente))
                     {
                          sb.AppendLine(produto.ToString());
                     }
